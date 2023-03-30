@@ -50,7 +50,7 @@
      
 ***
 ### EDUCATION INFO
-- Sep 2019 - Now. Ph.D. in Wuhan National Laboratory for Optoelectronics (WNLO), Huazhong University of Science and Technology (HUST).
+- Sep 2019 - Mar 2023. Ph.D. in Wuhan National Laboratory for Optoelectronics (WNLO), Huazhong University of Science and Technology (HUST).
 - Sep 2016 - Mar 2019. Master, Dept. of Software Engineering, Huazhong University of Science and Technology (HUST).
 - Sep 2009 - Jun 2013. Bachelor's degree, Dept. of Automation, North China Electric Power University (NCEPU).      
 
