@@ -33,9 +33,9 @@
 7. Yangtao Wang, <u>Yanzhao Xie</u>, Yu Liu, Lisheng Fan:      
 [G-CAM: Graph Convolution Network Based Class Activation Mapping for Multi-label Image Recognition](https://dl.acm.org/doi/10.1145/3460426.3463620). <b>ICMR 2021</b>: 322-330. <!--(CCF-B Conference paper, accepted, corresponding author) -->
 8. Yangtao Wang, <u>Yanzhao Xie</u>, Jiangfeng Zeng, Hanpin Wang, Lisheng Fan, Yufan Song:    
-[Cross-modal fusion for multi-label image classification with attention mechanism](https://www.sciencedirect.com/science/article/abs/pii/S0045790622002701?via%3Dihub). Comput. Electr. Eng 101: 108002 (2022).
+[Cross-modal fusion for multi-label image classification with attention mechanism](https://www.sciencedirect.com/science/article/abs/pii/S0045790622002701?via%3Dihub). <b>Comput. Electr. Eng</b> 101: 108002 (2022).
 9. Rukai Wei, Yu Liu, Jingkuan Song, <u>Yanzhao Xie</u>, Ke Zhou:    
-[Hyperbolic Hierarchical Contrastive Hashing](https://arxiv.org/abs/2212.08904). CoRR abs/2212.08904 (2022).
+[Hyperbolic Hierarchical Contrastive Hashing](https://arxiv.org/abs/2212.08904). <b>CoRR abs</b>/2212.08904 (2022).
 10. Yu Liu, Yangtao Wang, Lianli Gao, Chan Guo, <u>Yanzhao Xie</u>, Zhili Xiao:     
 [Deep Hash-based Relevance-aware Data Quality Assessment for Image Dark Data](https://dl.acm.org/doi/10.1145/3420038). <b>Trans. Data Sci</b>. 2(2): 11:1-11:26 (2021). <!--(ACM Transactions Journal paper, accepted, fifth author) -->
 11. <u>Yanzhao Xie</u>, Yu Liu, Yangtao Wang, Lianli Gao, Peng Wang, Ke Zhou:     
