@@ -34,15 +34,17 @@
 [G-CAM: Graph Convolution Network Based Class Activation Mapping for Multi-label Image Recognition](https://dl.acm.org/doi/10.1145/3460426.3463620). <b>ICMR 2021</b>: 322-330. <!--(CCF-B Conference paper, accepted, corresponding author) -->
 8. Yangtao Wang, <u>Yanzhao Xie</u>, Jiangfeng Zeng, Hanpin Wang, Lisheng Fan, Yufan Song:    
 [Cross-modal fusion for multi-label image classification with attention mechanism](https://www.sciencedirect.com/science/article/abs/pii/S0045790622002701?via%3Dihub). Comput. Electr. Eng 101: 108002 (2022).
-9. Yu Liu, Yangtao Wang, Lianli Gao, Chan Guo, <u>Yanzhao Xie</u>, Zhili Xiao:     
+9. Rukai Wei, Yu Liu, Jingkuan Song, <u>Yanzhao Xie</u>, Ke Zhou:    
+[Hyperbolic Hierarchical Contrastive Hashing](https://arxiv.org/abs/2212.08904). CoRR abs/2212.08904 (2022).
+10. Yu Liu, Yangtao Wang, Lianli Gao, Chan Guo, <u>Yanzhao Xie</u>, Zhili Xiao:     
 [Deep Hash-based Relevance-aware Data Quality Assessment for Image Dark Data](https://dl.acm.org/doi/10.1145/3420038). <b>Trans. Data Sci</b>. 2(2): 11:1-11:26 (2021). <!--(ACM Transactions Journal paper, accepted, fifth author) -->
-10. <u>Yanzhao Xie</u>, Yu Liu, Yangtao Wang, Lianli Gao, Peng Wang, Ke Zhou:     
+11. <u>Yanzhao Xie</u>, Yu Liu, Yangtao Wang, Lianli Gao, Peng Wang, Ke Zhou:     
 [Label-Attended Hashing for Multi-Label Image Retrieval](https://doi.org/10.24963/ijcai.2020/133). <b>IJCAI 2020</b>: 955-962. <!--(CCF-A Conference paper, accepted, first author)-->
-11. Yangtao Wang, <u>Yanzhao Xie</u>, Yu Liu, Ke Zhou, Xiaocui Li:     
+12. Yangtao Wang, <u>Yanzhao Xie</u>, Yu Liu, Ke Zhou, Xiaocui Li:     
 [Fast Graph Convolution Network Based Multi-label Image Recognition via Cross-modal Fusion](https://doi.org/10.1145/3340531.3411880).<b>CIKM 2020</b>: 1575-1584. <!--(CCF-B Conference paper, accepted, second author)-->
-12. Yan-tian Zhang, Haoxiang Wang, <u>Yanzhao Xie</u>:     
+13. Yan-tian Zhang, Haoxiang Wang, <u>Yanzhao Xie</u>:     
 [An intelligent hybrid model for power flow optimization in the cloud-IOT electrical distribution network.](https://link.springer.com/article/10.1007%2Fs10586-017-1270-0) <b>Clust. Comput.</b> 22(6): 13109-13118 (2019). <!--(JCR Q1 Journal paper, accepted, corresponding author)  -->
-13. Yantian Zhang, Junyi Zhou, <u>Yanzhao Xie</u>:      
+14. Yantian Zhang, Junyi Zhou, <u>Yanzhao Xie</u>:      
 [Virtual reality of interior noises of vehicles based on boundary element and neural networks](https://link.springer.com/article/10.1007%2Fs00521-016-2836-0). <b>Neural Comput. Appl.</b> 29(5): 1281-1291 (2018). <!--(JCR Q1 Journal paper, accepted, corresponding author) -->
 
 <!-- #### 2.UNDER REVIEW
