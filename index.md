@@ -11,7 +11,7 @@
 *** -->
 ### RESEARCH INTEREST     
 - Hashing encoding with machine learning, deep learning, etc.;
-- The research on new AI structure such as Transformer, SpikingNeuralNetwork, etc;
+- The research on new AI structures such as Transformer, CLIP, SpikingNeuralNetwork, etc;
 - The application of deep learning in detection and instance segmentation;
 - Use AI methods for solving the performance bottleneck in the areas of database, hash index, etc.    
 
@@ -31,16 +31,18 @@
 6. Yu Liu, <u>Yanzhao Xie</u>, Jingkuan Song, Rukai Wei, Ke Zhou:       
 [Self-Supervised Label-Visual Correlation Hashing for Multi-Label Image Retrieval](https://link.springer.com/chapter/10.1007/978-3-031-25198-6_10). <b>APWeb/WAIM</b> (2) 2022: 129-143. <!--(CCF-C Conference paper, accepted but not online, second author)-->
 7. Yangtao Wang, <u>Yanzhao Xie</u>, Yu Liu, Lisheng Fan:      
-[G-CAM: Graph Convolution Network Based Class Activation Mapping for Multi-label Image Recognition](https://dl.acm.org/doi/10.1145/3460426.3463620). <b>ICMR 2021</b>: 322-330. <!--(CCF-B Conference paper, accepted, corresponding author) -->  
-8. Yu Liu, Yangtao Wang, Lianli Gao, Chan Guo, <u>Yanzhao Xie</u>, Zhili Xiao:     
+[G-CAM: Graph Convolution Network Based Class Activation Mapping for Multi-label Image Recognition](https://dl.acm.org/doi/10.1145/3460426.3463620). <b>ICMR 2021</b>: 322-330. <!--(CCF-B Conference paper, accepted, corresponding author) -->
+8. Yangtao Wang, Yanzhao Xie, Jiangfeng Zeng, Hanpin Wang, Lisheng Fan, Yufan Song:    
+[Cross-modal fusion for multi-label image classification with attention mechanism](https://www.sciencedirect.com/science/article/abs/pii/S0045790622002701?via%3Dihub). Comput. Electr. Eng 101: 108002 (2022).
+9. Yu Liu, Yangtao Wang, Lianli Gao, Chan Guo, <u>Yanzhao Xie</u>, Zhili Xiao:     
 [Deep Hash-based Relevance-aware Data Quality Assessment for Image Dark Data](https://dl.acm.org/doi/10.1145/3420038). <b>Trans. Data Sci</b>. 2(2): 11:1-11:26 (2021). <!--(ACM Transactions Journal paper, accepted, fifth author) -->
-9. <u>Yanzhao Xie</u>, Yu Liu, Yangtao Wang, Lianli Gao, Peng Wang, Ke Zhou:     
+10. <u>Yanzhao Xie</u>, Yu Liu, Yangtao Wang, Lianli Gao, Peng Wang, Ke Zhou:     
 [Label-Attended Hashing for Multi-Label Image Retrieval](https://doi.org/10.24963/ijcai.2020/133). <b>IJCAI 2020</b>: 955-962. <!--(CCF-A Conference paper, accepted, first author)-->
-10. Yangtao Wang, <u>Yanzhao Xie</u>, Yu Liu, Ke Zhou, Xiaocui Li:     
+11. Yangtao Wang, <u>Yanzhao Xie</u>, Yu Liu, Ke Zhou, Xiaocui Li:     
 [Fast Graph Convolution Network Based Multi-label Image Recognition via Cross-modal Fusion](https://doi.org/10.1145/3340531.3411880).<b>CIKM 2020</b>: 1575-1584. <!--(CCF-B Conference paper, accepted, second author)-->
-11. Yan-tian Zhang, Haoxiang Wang, <u>Yanzhao Xie</u>:     
+12. Yan-tian Zhang, Haoxiang Wang, <u>Yanzhao Xie</u>:     
 [An intelligent hybrid model for power flow optimization in the cloud-IOT electrical distribution network.](https://link.springer.com/article/10.1007%2Fs10586-017-1270-0) <b>Clust. Comput.</b> 22(6): 13109-13118 (2019). <!--(JCR Q1 Journal paper, accepted, corresponding author)  -->
-12. Yantian Zhang, Junyi Zhou, <u>Yanzhao Xie</u>:      
+13. Yantian Zhang, Junyi Zhou, <u>Yanzhao Xie</u>:      
 [Virtual reality of interior noises of vehicles based on boundary element and neural networks](https://link.springer.com/article/10.1007%2Fs00521-016-2836-0). <b>Neural Comput. Appl.</b> 29(5): 1281-1291 (2018). <!--(JCR Q1 Journal paper, accepted, corresponding author) -->
 
 <!-- #### 2.UNDER REVIEW
@@ -59,11 +61,12 @@
 <!-- - Sep 2020. I got the honorary title of merit graduate student in WNLO, HUST. -->
 <!-- - Sep 2019. I got the honorary title of excellent master's degree student in the Dep. of Software Engineering, HUST. -->
 <!-- - Sep 2018. I got the "Knowledge and Action" Outstanding Third-class Scholarship in the Dep. of Software Engineering, HUST. -->
-<!-- - Sep 2017. I got Second-class academic scholarship in the Dep. of Software Engineering, HUST. -->
-<!-- - Sep 2016. I got First-class academic scholarship in the Dep. of Software Engineering, HUST.     --> 
+<!-- - Sep 2017. I got a Second-class academic scholarship in the Dep. of Software Engineering, HUST. -->
+<!-- - Sep 2016. I got a First-class academic scholarship in the Dep. of Software Engineering, HUST.     --> 
 
 ***
 ### CONTACT ME
+<!-- - <b>ADDRESS:</b>  Room B-409, Wuhan National Laboratory for Optoelectronics,1037 Luoyu Road, Hongshan District, Wuhan city, Hubei province, China  -->
 - <b>ADDRESS:</b>  Room B-409, Wuhan National Laboratory for Optoelectronics,1037 Luoyu Road, Hongshan District, Wuhan city, Hubei province, China
 - <b>EMAIL:</b> yasinexie@gmail.com<!--yzxie@hust.edu.cn-->
 - <b>OTHERs:</b> ORCID(0000-0002-9274-2807)
