@@ -32,7 +32,7 @@
 [Self-Supervised Label-Visual Correlation Hashing for Multi-Label Image Retrieval](https://link.springer.com/chapter/10.1007/978-3-031-25198-6_10). <b>APWeb/WAIM</b> (2) 2022: 129-143. <!--(CCF-C Conference paper, accepted but not online, second author)-->
 7. Yangtao Wang, <u>Yanzhao Xie</u>, Yu Liu, Lisheng Fan:      
 [G-CAM: Graph Convolution Network Based Class Activation Mapping for Multi-label Image Recognition](https://dl.acm.org/doi/10.1145/3460426.3463620). <b>ICMR 2021</b>: 322-330. <!--(CCF-B Conference paper, accepted, corresponding author) -->
-8. Yangtao Wang, Yanzhao Xie, Jiangfeng Zeng, Hanpin Wang, Lisheng Fan, Yufan Song:    
+8. Yangtao Wang, <u>Yanzhao Xie</u>, Jiangfeng Zeng, Hanpin Wang, Lisheng Fan, Yufan Song:    
 [Cross-modal fusion for multi-label image classification with attention mechanism](https://www.sciencedirect.com/science/article/abs/pii/S0045790622002701?via%3Dihub). Comput. Electr. Eng 101: 108002 (2022).
 9. Yu Liu, Yangtao Wang, Lianli Gao, Chan Guo, <u>Yanzhao Xie</u>, Zhili Xiao:     
 [Deep Hash-based Relevance-aware Data Quality Assessment for Image Dark Data](https://dl.acm.org/doi/10.1145/3420038). <b>Trans. Data Sci</b>. 2(2): 11:1-11:26 (2021). <!--(ACM Transactions Journal paper, accepted, fifth author) -->
@@ -67,7 +67,7 @@
 ***
 ### CONTACT ME
 <!-- - <b>ADDRESS:</b>  Room B-409, Wuhan National Laboratory for Optoelectronics,1037 Luoyu Road, Hongshan District, Wuhan city, Hubei province, China  -->
-- <b>ADDRESS:</b>  Room B-409, Wuhan National Laboratory for Optoelectronics,1037 Luoyu Road, Hongshan District, Wuhan city, Hubei province, China
-- <b>EMAIL:</b> yasinexie@gmail.com<!--yzxie@hust.edu.cn-->
+- <b>ADDRESS:</b> Room 608, Electronic Information Lab Building, Guangzhou University, 230 Wai Huan Xi Road, Guangzhou Higher Education Mega Center, Guangzhou, China       
+- <b>EMAIL:</b> yzhX@gzhu.edu.cn<!--yzxie@hust.edu.cn-->
 - <b>OTHERs:</b> ORCID(0000-0002-9274-2807)
 
