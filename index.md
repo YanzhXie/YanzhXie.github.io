@@ -28,8 +28,8 @@
 [How visual chirality affects the performance of image hashing](https://link.springer.com/article/10.1007/s00521-022-08141-0#:~:text=Experimental%20results%20reveal%20that%20different,75%25%5Csim85%25.). <b>Neural Comput. Appl</b> (2023). <!--(JCR Q1 Journal paper, accepted, first author)-->
 5. <u>Yanzhao Xie</u>, Yangtao Wang, Yu Liu, Ke Zhou:     
 [Label graph learning for multi-label image recognition with cross-modal fusion](https://link.springer.com/article/10.1007/s11042-022-12397-y). <b>Multim. Tools Appl. </b> 81(18): 25363-25381 (2022). <!--(JCR Q2 Journal paper, accepted, first author)-->
-6. Yangtao Wang, Yanzhao Xie, Lisheng Fan, Guangxing Hu:    
-[STMG: Swin transformer for multi-label image recognition with graph convolution network](https://link.springer.com/article/10.1007/s00521-022-06990-3). Neural Comput. Appl. 34(12): 10051-10063 (2022)
+6. Yangtao Wang, <u>Yanzhao Xie</u>, Lisheng Fan, Guangxing Hu:    
+[STMG: Swin transformer for multi-label image recognition with graph convolution network](https://link.springer.com/article/10.1007/s00521-022-06990-3). <b>Neural Comput. Appl.</b> 34(12): 10051-10063 (2022)
 7. Yu Liu, <u>Yanzhao Xie</u>, Jingkuan Song, Rukai Wei, Ke Zhou:       
 [Self-Supervised Label-Visual Correlation Hashing for Multi-Label Image Retrieval](https://link.springer.com/chapter/10.1007/978-3-031-25198-6_10). <b>APWeb/WAIM</b> (2) 2022: 129-143. <!--(CCF-C Conference paper, accepted but not online, second author)-->
 8. Yangtao Wang, <u>Yanzhao Xie</u>, Yu Liu, Lisheng Fan:      
