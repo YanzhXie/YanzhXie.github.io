@@ -8,6 +8,10 @@
 <center>Wuhan National Laboratory for Optoelectronics (WNLO),</center>
 <center>Intelligent Cloud Storage Joint Research Center of HUST and Tencent Inc.</center>
 
+# <center>Ph.D,</center>
+  # <center>Huazhong University of Science and Technology (HUST),</center>
+  # <center>Key Laboratory of Information Storage System, Ministry Of Education,</center>
+  # <center>Wuhan National Laboratory for Optoelectronics (WNLO),</center>
 *** -->
 ### RESEARCH INTEREST     
 - Hashing encoding with machine learning, deep learning, etc.;
