@@ -3,9 +3,11 @@ title:  Yanzhao Xie
 
 description: >
   <img src="me.png"  alt="photo" height="230" align="center"/>
-  <center>Ph.D,</center>
-  <center>Huazhong University of Science and Technology (HUST),</center>
-  <center>Key Laboratory of Information Storage System, Ministry Of Education,</center>
-  <center>Wuhan National Laboratory for Optoelectronics (WNLO),</center>
+  <center>Lecturer,</center> 
+  <center>School of Computer Science and Cyber Engineering, Guangzhou University,</center>
+  # <center>Ph.D,</center>
+  # <center>Huazhong University of Science and Technology (HUST),</center>
+  # <center>Key Laboratory of Information Storage System, Ministry Of Education,</center>
+  # <center>Wuhan National Laboratory for Optoelectronics (WNLO),</center>
 show_downloads: false
 # logo: ./me.png
