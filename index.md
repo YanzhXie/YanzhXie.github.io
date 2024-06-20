@@ -23,9 +23,9 @@
 ### PUBLICATIONS    
 #### ACCEPTED (partial)
 1. Rukai Wei, Yu Liu, Jingkuan Song, <u>Yanzhao Xie</u>, Ke Zhou:
-[Exploring Hierarchical Information in Hyperbolic Space for Self-Supervised Image Hashing](https://ieeexplore.ieee.org/document/10460427). IEEE Trans. Image Process. (TIP), 2024, 33: 1768-1781.
+[Exploring Hierarchical Information in Hyperbolic Space for Self-Supervised Image Hashing](https://ieeexplore.ieee.org/document/10460427). <b>IEEE Trans. Image Process.</b>, 2024, 33: 1768-1781.
 3. Rukai Wei, Yu Liu, Jingkuan Song, Heng Cui, <u>Yanzhao Xie</u>, Ke Zhou:       
-[CHAIN: Exploring Global-Local Spatio-Temporal Information for Improved Self-Supervised Video Hashing](https://dl.acm.org/doi/10.1145/3581783.3613440). ACM Multimedia (MM), 2023: 1677-1688.
+[CHAIN: Exploring Global-Local Spatio-Temporal Information for Improved Self-Supervised Video Hashing](https://dl.acm.org/doi/10.1145/3581783.3613440). <b>ACM Multimedia</b>, 2023: 1677-1688.
 4. Junwei Cheng, <u>Yanzhao Xie</u>, Yu Liu, Junjie Song, Xinyu Liu, Zhenming He, Wenkai Zhang, Xinjie Han, Hailong Zhou, Ke Zhou, Heng Zhou, Jianji Dong and Xinliang Zhang:    
 [Human emotion recognition with a microcomb-enabled integrated optical neural network](https://www.degruyter.com/document/doi/10.1515/nanoph-2023-0298/html). <b>Nanophotonics</b> (2023).
 5. <u>Yanzhao Xie</u>, Rukai Wei, Jingkuan Song, Yu Liu, Yangtao Wang, Ke Zhou:    
