@@ -20,7 +20,7 @@
 - Use AI methods for solving the performance bottleneck in the areas of database, hash index, etc.    
 
 ***
-### PUBLICATIONS    
+### PUBLICATIONS (Sorted by time)
 #### ACCEPTED (partial)
 1. Rukai Wei, Yu Liu, Jingkuan Song, <u>Yanzhao Xie</u>, Ke Zhou:
 [Exploring Hierarchical Information in Hyperbolic Space for Self-Supervised Image Hashing](https://ieeexplore.ieee.org/document/10460427). <b>IEEE Trans. Image Process.</b>, 2024, 33: 1768-1781.
